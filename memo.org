@@ -1,0 +1,21 @@
+Rails Guide を翻訳しようぜ。
+* 目的
+- Rails Guide 翻訳しようぜ。
+- ついでにあらましを紹介
+* シナリオ
+- Rails Guide とは
+  - http://edgeguides.rubyonrails.org/
+  - http://guides.rubyonrails.org/
+- Rails Guide 翻訳すればいいのに
+- 過去にも似たようなことないかなー。
+  - Rails3 ドキュメント翻訳
+  - http://blade.nagaokaut.ac.jp/cgi-bin/vframe.rb/ruby/ruby-list/47104?47067-49137
+  - 超止まってる。
+  - なにやらいろいろ翻訳補助 Rakefileがある。
+- いっちょ fork して Rails4 対応してみた
+  - https://github.com/eiel/docrails/tree/ja-JP/guides/source/ja-JP
+  - ruby-list にも流してみた
+  - 説明が少なすぎた
+  - とりあえず、ひとつでも翻訳できてから考えるか <- いまここ
+- 毎日ちょっとづつ進めてる(5日ぐらいなんもできてない)
+- 独自に翻訳してる人がいるから参考にすれば結構すすむかも？
